@@ -21,6 +21,9 @@ Y. Zheng and S. Zhang, "Mcships: A Large-Scale Ship Dataset For Detection And Fi
 
 - Download [Yolov5](https://github.com/topics/yolov5)
 
+- Download [Mcships_database_lite](https://pan.baidu.com/s/1rDeiCPX4EdRUvBl5jnWqDQ)  password: dqwu 
+
+- Download [Mcships_satellite_database_lite](https://pan.baidu.com/s/1V-pZf_eP1XP8op-Yz0c3nQ)   password: ycws
 ### Mcship train/test
 - Download a Mcship dataset (e.g. maps):
 
@@ -28,11 +31,11 @@ Y. Zheng and S. Zhang, "Mcships: A Large-Scale Ship Dataset For Detection And Fi
 ```
 python voc2yolo.py
 ```
-- Train a model:
+- Mcships_database_lite contains 9000 imgs/annotations in Pascal-VOC
 
-- Test the model:
+- Mcships_satellite_database_lite contains 800 imgs/annotations in Pascal-VOC
 
-
+- Train/Val/Test/Trainval imgs are listed in .ImageSet/Main/*
 
 ## Citation
 If you use this code for your research, please cite our papers.
