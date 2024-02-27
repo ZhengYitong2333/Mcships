@@ -21,7 +21,8 @@ Y. Zheng and S. Zhang, "Mcships: A Large-Scale Ship Dataset For Detection And Fi
 
 - Download [Yolov5](https://github.com/topics/yolov5)
 
-- Download [Mcships_database_lite](https://pan.baidu.com/s/1rDeiCPX4EdRUvBl5jnWqDQ)  password: dqwu 
+- Download [Mcships_database_lite(BaiduYun)](https://pan.baidu.com/s/1rDeiCPX4EdRUvBl5jnWqDQ)  password: dqwu or
+  [Mcships_database_lite(GoogleDrive)](https://drive.google.com/file/d/1udewXbHCS9WKM-MPpWqouUUGs6Vx5iWf/view?usp=sharing)
 
 ### Mcship train/test
 - Download a Mcship dataset (e.g. maps):
